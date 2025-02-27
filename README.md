@@ -1,7 +1,5 @@
 # Cars Island Car Rental on Azure Cloud
 
-**Author: Aditya Bhanwadiya**
-
 ## Overview
 
 Cars Island is a cloud-native car rental system leveraging Microsoft Azure services for scalability, security, and performance. This repository demonstrates best practices in cloud architecture, microservices, and serverless computing while integrating Azure services for identity management, storage, messaging, and API management.
