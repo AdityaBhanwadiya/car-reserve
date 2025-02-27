@@ -39,3 +39,7 @@ Cars Reserve is a cloud-native car rental system leveraging Microsoft Azure serv
 - **Messaging & Event Processing:** Azure Service Bus
 - **CI/CD & Deployment:** Azure DevOps, ARM Templates
 - **Security & Authentication:** Azure AD B2C, Azure Key Vault
+
+## Acknowledgment
+
+A huge thanks to Daniel Krzyczkowski for the great idea, insightful guidance, and incredible codebase. Your work has been an inspiration and a fantastic learning resource throughout this project!
